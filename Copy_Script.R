@@ -404,6 +404,7 @@ wilcox.test (evalges$X2021_AA, evalges$X2022_AA, paired = TRUE, correct = TRUE, 
 install.packages(("tidyr"))
 library(tidyr)
 
+  use
 install.packages("rcompanion") 
 library(rcompanion) 
 
