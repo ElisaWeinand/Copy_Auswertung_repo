@@ -441,4 +441,4 @@ wilcox.test (evalges$X2021_WW, evalges$X2022_WW, paired = TRUE, correct = TRUE, 
 evalges_long <- gather (evalges, t, v, X2021_WW:X2022_WW)
 wilcoxonPairedR (x=evalges_long$v, g = evalges_long$t)
 
-#1. Commit:test
+#1. Commit:test2
